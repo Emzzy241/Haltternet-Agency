@@ -12,7 +12,7 @@
 * Javascript
 
 #### Description
-_An ._
+_This is a design agency website that offers businesses access to features like building a website, email marketing, keyword targeting, and branding._
 
 ## Setup/Installation
 * _Once you have the website on your device the installation process is super easy._
